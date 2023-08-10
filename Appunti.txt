@@ -1,0 +1,160 @@
+<div class="main-product">
+    <div class="recommended-products-heading">
+      <h1>Prodotti che potrebbero interessarti</h1>
+      <p class="disclaimer-txt">Disclaimer :<span class="info-icon">i</span></p>
+    </div>
+  <div class="product-list">
+    <div class="product" data-product-type="bibite" data-price="1.5" data-calories="139">
+      <img src="img\product-img\coca-cola.jpg" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">Coca Cola 330ml</div>
+        <div class="product-price">0 - 3 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 139 Kcal</span>
+          <span>Grassi: 0g</span>
+          <span>Carboidrati: 35.1g</span>
+          <span>Zuccheri: 35.1g</span>
+          <span>Sodio: +- 33mg</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="snack" data-price="0.5" data-calories="73">
+      <img src="img\product-img\ferrero-rocher.jpg" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">1 Ferrero Rocher</div>
+        <div class="product-price">0 - 1 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 73 Kcal</span>
+          <span>Grassi: 4.9g</span>
+          <span>Grassi Saturi: 2g</span>
+          <span>Carboidrati: 5.8g</span>
+          <span>Zuccheri: 5.2g</span>
+          <span>Sodio: +- 18mg</span>
+          <span>Proteine: 0.6g</span>
+          <span>Fibre: 0.5g</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="snack" data-price="1.5" data-calories="122">
+      <img src="img\product-img\kinder-bueno.jpg" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">Kinder Bueno</div>
+        <div class="product-price">0 - 3 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 122 Kcal</span>
+          <span>Grassi: 7.9g</span>
+          <span>Grassi Saturi: 3.4g</span>
+          <span>Carboidrati: 11.8g</span>
+          <span>Zuccheri: 10.1g</span>
+          <span>Sodio: +- 0.04mg</span>
+          <span>Proteine: 1.4g</span>
+          <span>Fibre: 0.5g</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="snack" data-price="1.5" data-calories="224">
+      <img src="img\product-img\wafers.jpg" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">Wafer Loackers 25x45g</div>
+        <div class="product-price">0 - 3 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 224 Kcal</span>
+          <span>Grassi: 12g</span>
+          <span>Grassi Saturi: 6.8g</span>
+          <span>Carboidrati: 26g</span>
+          <span>Zuccheri: 14g</span>
+          <span>Sodio: +- 0.07mg</span>
+          <span>Proteine: 2.5g</span>
+          <span>Fibre: 0.9g</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="snack" data-price="2.5" data-calories="52">
+      <img src="img\product-img\pringles-original.jpg" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">Pringles Original (10g)</div>
+        <div class="product-price">0 - 5 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 52 Kcal</span>
+          <span>Grassi: 3.3g</span>
+          <span>Grassi Saturi: 1.1g</span>
+          <span>Carboidrati: 5.2g</span>
+          <span>Zuccheri: 0.2g</span>
+          <span>Sodio: +- 0.09mg</span>
+          <span>Proteine: 0.7g</span>
+          <span>Fibre: 0.4g</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="bibite" data-price="1.5" data-calories="17">
+      <img src="img\product-img\estathe-limone.jpg" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">estathe Limone 400ml</div>
+        <div class="product-price">0 - 3 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 17 Kcal</span>
+          <span>Grassi: 0g</span>
+          <span>Carboidrati: 4.1g</span>
+          <span>Zuccheri: 4.1g</span>
+          <span>Sodio: +- 0.003mg</span>
+          <span>Proteine: 0g</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="bibite" data-price="1.5" data-calories="132">
+      <img src="img/product-img/fuzetea-pesca-400ml.png" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">fuzetea / Tè Nero / Pesca e Rosa / 400ml</div>
+        <div class="product-price">0 - 3 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 132 Kcal</span>
+          <span>Grassi: 0g</span>
+          <span>Grassi Saturi: 0g</span>
+          <span>Carboidrati: 32g</span>
+          <span>Zuccheri: 32g</span>
+          <span>Sale: 0.12g</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="bibite" data-price="2" data-calories="18">
+      <img src="img/product-img/San_Benedetto_Thè verde_Cactus_Zero_1,5l.png" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">San Benedetto / Thè verde & Cactus Zero / 1,5l </div>
+        <div class="product-price">0 - 4 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 18 Kcal</span>
+          <span>Grassi: 0g</span>
+          <span>Grassi Saturi: 0g</span>
+          <span>Carboidrati: 0g</span>
+          <span>Zuccheri: 0g</span>
+          <span>Proteine: 0g</span>
+          <span>Sale: 0.30g</span>
+        </div>
+      </div>
+    </div>
+    <div class="product" data-product-type="cereali" data-price="3" data-calories="160">
+      <img src="img/product-img/fiocchi_d'avena.jpg" alt="Prodotto 1">
+      <div class="product-info">
+        <div class="product-title">Fiocchi D' avena / 100g</div>
+        <div class="product-price">0 - 6 &#8364</div>
+        <div class="disclaimer">Valori Nutrizionali</div>
+        <div class="product-details">
+          <span>Calorie: 160 Kcal</span>
+          <span>Grassi Saturi: 1.6g</span>
+          <span>Carboidrati: 13g</span>
+          <span>Zuccheri: 2.5g</span>
+          <span>Proteine: 5.1g</span>
+          <span>Fibre: 2.4g</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
